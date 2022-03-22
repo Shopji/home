@@ -1,8 +1,8 @@
 <template>
     <ul class="nav-list">
-        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link to="/howto/seller">{{$t('applinks.sellerguide')}}</nuxt-link></li>
-        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link to="/howto/supplier">{{$t('applinks.supplierguide')}}</nuxt-link></li>
-        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link to="/howto/shipping">{{$t('applinks.shipping')}}</nuxt-link></li>
+        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link :to="localePath('/howto/seller')">{{$t('applinks.sellerguide')}}</nuxt-link></li>
+        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link :to="localePath('/howto/supplier')">{{$t('applinks.supplierguide')}}</nuxt-link></li>
+        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link :to="localePath('/howto/shipping')">{{$t('applinks.shipping')}}</nuxt-link></li>
     </ul>
 </template>
 

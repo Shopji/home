@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="brand-name">
-           <nuxt-link class="topMenu home" to="/" style="float:left;"></nuxt-link>
+           <nuxt-link class="topMenu home" :to="localePath('/')" style="float:left;"></nuxt-link>
 
         </div>
 

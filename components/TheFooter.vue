@@ -9,9 +9,9 @@
         <div id="w-node-_56e1e3b0-5d79-51bb-79e9-13175659d6ab-088bf3ae"></div>
         <div>
           <h5 class="footer-title">{{$t('footer.title2.title')}}</h5>
-          <nuxt-link to="/howto/seller" target="_blank" class="footer-link">{{$t('footer.title2.details.i1')}}</nuxt-link>
-          <nuxt-link to="/howto/supplier" target="_blank" class="footer-link">{{$t('footer.title2.details.i2')}}</nuxt-link>
-          <nuxt-link to="/howto/shipping" target="_blank" class="footer-link">{{$t('footer.title2.details.i3')}}</nuxt-link>
+          <nuxt-link :to="localePath('/howto/seller')" target="_blank" class="footer-link">{{$t('footer.title2.details.i1')}}</nuxt-link>
+          <nuxt-link  :to="localePath('/howto/supplier')"  target="_blank" class="footer-link">{{$t('footer.title2.details.i2')}}</nuxt-link>
+          <nuxt-link :to="localePath('/howto/shippin')" target="_blank" class="footer-link">{{$t('footer.title2.details.i3')}}</nuxt-link>
           <a href="https://shopji.co/policies" target="_blank" class="footer-link">{{$t('footer.title2.details.i4')}}</a>
         </div>
         <div>
