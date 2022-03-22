@@ -63,6 +63,7 @@ export default {
       cookieKey: 'shopji_i18n_lang_redi',
       onlyOnRoot: true,
     },
+
     strategy: 'prefix_except_default',
     defaultLocale: 'kh',
     locales: [
@@ -85,7 +86,8 @@ export default {
     langDir: 'locales/',
     vueI18n: {
       fallbackLocale: 'kh'
-    }
+    },
+
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

@@ -28,10 +28,6 @@
             TheFooter
         },
 
-        mounted() {
-          this.$i18n.setLocale('en')
-        },
-
         computed: {
 
             isSidebar() {
