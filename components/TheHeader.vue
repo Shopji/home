@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="brand-name">
-           <a class="topMenu home" target="_blank"  href="https://shopji.co" style="float:left;"></a>
+           <nuxt-link class="topMenu home" to="/" style="float:left;"></nuxt-link>
 
         </div>
 
