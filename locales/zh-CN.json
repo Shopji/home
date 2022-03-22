@@ -1,0 +1,101 @@
+{
+  "startselling":"开始销售",
+  "intro": {
+    "normal": "向私人流量客户在线销售",
+    "red": "赚取 10-30% 的佣金",
+    "p2": "成为东南亚最佳社交销售工具的卖家，立即发展您的业务"
+  },
+  "whySellerUse": {
+    "title": "为什么卖家喜欢 Shopji",
+    "subTitle": "Shopji 旨在以最简单的方式在社交媒体上进行销售，让卖家只需要专注于为他们的私人流量客户选择更便宜、更优质的产品"
+  },
+  "whySelleruseDetials": {
+    "p1": {
+      "title": "零投资",
+      "subtitle": "卖家开始在 Shopji 上销售无需保证金或任何投资"
+    },
+    "p2": {
+      "title": "每个卖家的成长",
+      "subtitle": "从小到大，从个体到中小企业，所有卖家都可以在Shopji上做生意"
+    },
+    "p3": {
+      "title": "社交网络中的销售便利",
+      "subtitle1": "单链接销售",
+      "subtitle2": "不处理付款",
+      "subtitle3": "无物流处理"
+    }
+  },
+  "whySupplierUse": {
+    "title": "为什么供应商喜欢 Shopji"
+  },
+  "whySupplierUseDetails": {
+    "p1": {
+      "title": "产品上市无保证金",
+      "subtitle": "供应商无需支付保证金即可注册Shopji并立即开始销售"
+    },
+    "p2": {
+      "title": "专用产品列表管理器",
+      "subtitle": "清除您的所有疑虑，例如如何上传产品、更正检查错误等等"
+    },
+    "p3": {
+      "title": "无订单取消费用",
+      "subtitle": "取消因不可预见的原因无法履行的订单，而不必担心罚款"
+    }
+  },
+  "howItWorksForSeller": {
+    "title": "学习如何作为卖家销售并赚取佣金",
+    "step1": {
+      "title": "创建账户",
+      "details": {
+        "p1": "你只需要:",
+        "p2": "可以接收短信的手机号"
+      }
+    },
+    "step2": {
+      "title": "申请成为卖家",
+      "details": "在Shopji卖家申请页面提交卖家详情"
+    },
+    "step3": {
+      "title": "获取订单",
+      "details": "浏览、搜索或获取 Shopji 产品链接并在您的社交网络中推广它们"
+    },
+    "step4": {
+      "title": "接受佣金",
+      "details": "订单发货第 7 天，付款安全存入您的银行账户"
+    }
+  },
+  "learnHowToBecomeSeller": "学习如何成为卖家",
+  "learnHowToBecomeSupplier": "学习如何成为供应商",
+  "how2RegisterSupplier": {
+    "title": "了解如何作为供应商进行销售并在 Shopji 上发展您的业务"
+  },
+  "growBusiness": {
+    "title": "与 Shopji 一起发展您的业务",
+    "p1": {
+      "title": "商业洞察",
+      "subTitle": "使用产品和价格建议，让您始终掌握业务的领先地位"
+    },
+    "p2": {
+      "title": "高效降低运费",
+      "subTitle": "与顶级物流供应商合作，以最具成本效益和效率的方式运送订单"
+    }
+  },
+  "supportPeriod": {
+    "title": "Shopji 支持服务 24/7 可用",
+    "subTitle": "Shopji 支持可以解决您开始在线销售业务前后的所有疑问和问题",
+    "emailTitle": "您可以联系到"
+  },
+  "footer": {
+    "title1": "使用 Shopji 向您的私人流量客户在线销售并赚取高额佣金",
+    "title2": {
+      "title": "在 Shopji 上销售",
+      "details": {
+        "i1": "如何成为卖家",
+        "i2": "如何成为供应商",
+        "i3": "运输和退货",
+        "i4": "Shopji 政策"
+      }
+    },
+    "title3": "联系我们"
+  }
+}

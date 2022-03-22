@@ -1,0 +1,123 @@
+{
+  "startselling":"Start Selling",
+  "intro": {
+    "normal": "Sell online to private traffic customers,",
+    "red": "Earning 10-30% commissions",
+    "p2":"Become a seller fof best social selling tool in Southeast Asia and grow your business now"
+  },
+
+  "whySellerUse":{
+    "title":"Why Seller Love Shopji",
+    "subTitle":"Shopji is designed to make it easiest way to sell on social media and let sellers only need to focus on selection of  cheaper and better quality products for their private traffic customers"
+  },
+  "whySelleruseDetials":{
+    "p1":{
+      "title":"Zero investment",
+      "subtitle":"No security deposit or any investment needed for sellers start selling on Shopji"
+    },
+    "p2":{
+      "title":"Growth for Every Seller",
+      "subtitle":"From small to large and individule to small and medium business, all sellers can grow businesses on Shopji"
+    },
+    "p3":{
+      "title":"Ease of Selling in Soical Networks",
+      "subtitle1":"Sell with a single link",
+      "subtitle2":"No payment handling",
+      "subtitle3":"No logistics handling"
+    }
+  },
+
+  "whySupplierUse":{
+    "title":"Why Supplier Love Shopji"
+  },
+
+  "whySupplierUseDetails":{
+    "p1":{
+      "title":"No security deposit for products listing",
+      "subtitle":"Supplier can register to Shopji and start sellling imediately without paying security deposit"
+    },
+    "p2":{
+      "title":"Dedicated Products Listing manager",
+      "subtitle":"Clear all your doubts like how to upload products, correct check errors and more"
+    },
+    "p3":{
+      "title":"No Order Cancellation Charges",
+      "subtitle":"Cancel orders that you can’t fulfil for unforeseen reasons without worrying about penaltie"
+    }
+  },
+
+  "howItWorksForSeller": {
+    "title":"Learn how to sell as seller and earn commissions",
+    "step1":{
+      "title":"Create Account",
+      "details":{
+        "p1":"All you need is:",
+        "p2":"Mobile Number that can receive SMS"
+      }
+    },
+
+    "step2":{
+      "title":"Apply to Become Seller",
+      "details":"Submit seller details in Shopji Seller application page"
+    },
+
+    "step3":{
+      "title":"Get Orders",
+      "details":"Browse, search or get Shopji product links and promote them in your social networks"
+    },
+
+    "step4":{
+      "title":"Receive Commissions",
+      "details":"Payments are deposited safely to your bank account on the 7th day of order delivery"
+    }
+  },
+
+  "learnHowToBecomeSeller": "Learn How to become Seller",
+  "learnHowToBecomeSupplier": "Learn How to become Supplier",
+
+  "how2RegisterSupplier": {
+    "title":"Learn how to sell as supplier and grow your business on Shopji"
+  },
+
+  "growBusiness": {
+    "title":"Grow Your Business With Shopji",
+    "p1": {
+      "title":"Business Insights",
+      "subTitle":"Use product & price recommendations so that you’re always on top of your business"
+
+    },
+    "p2": {
+      "title":"Efficient and Lower Shipping Costs",
+      "subTitle":"Parterned with top logistics provider to ship orders in most cost effective and efficient way"
+    }
+
+  },
+
+
+  "supportPeriod":{
+    "title":"Shopji Support Service Available 24/7",
+    "subTitle":"Shopji support is available to solve all your doubts and issues before and after you start your online selling business",
+    "emailTitle":"You can reach out to"
+  },
+
+  "footer":{
+    "title1":"Sell online with Shopji to your private traffic customers and earn high commissions",
+    "title2":{
+      "title":"Sell on Shopji",
+      "details":{
+        "i1":"How to become Seller",
+        "i2":"How to become Supplier",
+        "i3":"Shipping & Returns",
+        "i4":"Shopji Policies"
+      }
+    },
+    "title3":"Contact us"
+  }
+
+
+
+
+
+
+
+}
