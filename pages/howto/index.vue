@@ -3,14 +3,14 @@
         <div id="title">{{$t('footer.title2.title')}}</div>
         <ul>
 	<li>
-		<a class="shopji-link" href="/howto/seller" target="_blank">{{$t('footer.title2.details.i1')}}</a>
+		<nuxt-link class="shopji-link" to="/howto/seller" target="_blank">{{$t('footer.title2.details.i1')}}</nuxt-link>
 	</li>
 	<li>
-		<a class="shopji-link" href="/howto/supplier" target="_blank">{{$t('footer.title2.details.i2')}}</a>
+		<nuxt-link class="shopji-link" to="/howto/supplier" target="_blank">{{$t('footer.title2.details.i2')}}</nuxt-link>
 	</li>
 
   <li>
-		<a class="shopji-link" href="/howto/shipping" target="_blank">{{$t('footer.title2.details.i3')}}</a>
+		<nuxt-link class="shopji-link" to="/howto/shipping" target="_blank">{{$t('footer.title2.details.i3')}}</nuxt-link>
 	</li>
 </ul>
     </div>

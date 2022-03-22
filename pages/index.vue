@@ -160,9 +160,9 @@
         </div>
 
         <div class="flex-right mobile-padding-0 w-col w-col-7 w-col-tiny-tiny-stack">
-          <a href="/howto/seller" target="_blank" class="play-text-button w-inline-block"><img src="~/assets/images/play.svg" loading="lazy" alt="play" class="play-text-button-icon">
+          <nuxt-link to="/howto/seller" target="_blank" class="play-text-button w-inline-block"><img src="~/assets/images/play.svg" loading="lazy" alt="play" class="play-text-button-icon">
             <div>{{$t('learnHowToBecomeSeller')}}</div>
-          </a>
+          </nuxt-link>
         </div>
       </div>
     </div>
@@ -179,9 +179,9 @@
             <div class="space-20 hidden-desktop"></div>
           </div>
           <div class="flex-right mobile-padding-0 w-col w-col-7 w-col-tiny-tiny-stack">
-            <a href="/howto/supplier" target="_blank" class="play-text-button w-inline-block"><img src="~/assets/images/play.svg" loading="lazy" alt="play" class="play-text-button-icon">
+            <nuxt-link to="/howto/supplier" target="_blank" class="play-text-button w-inline-block"><img src="~/assets/images/play.svg" loading="lazy" alt="play" class="play-text-button-icon">
               <div>{{$t('learnHowToBecomeSupplier')}}</div>
-            </a>
+            </nuxt-link >
           </div>
         </div>
       </div>
