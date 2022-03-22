@@ -11,7 +11,7 @@
           <h5 class="footer-title">{{$t('footer.title2.title')}}</h5>
           <a href="/howto/seller" target="_blank" class="footer-link">{{$t('footer.title2.details.i1')}}</a>
           <a href="/howto/supplier" target="_blank" class="footer-link">{{$t('footer.title2.details.i2')}}</a>
-          <a href="/shipping" target="_blank" class="footer-link">{{$t('footer.title2.details.i3')}}</a>
+          <a href="/howto/shipping" target="_blank" class="footer-link">{{$t('footer.title2.details.i3')}}</a>
           <a href="https://shopji.co/policies" target="_blank" class="footer-link">{{$t('footer.title2.details.i4')}}</a>
         </div>
         <div>

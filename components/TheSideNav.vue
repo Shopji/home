@@ -25,7 +25,7 @@
 </script>
 
 
-<style scoped>
+<style lang="scss" scoped>
     .sidenav-container {
         height: 100%;
         width: 100%;
@@ -33,13 +33,25 @@
     .sidenav {
         height: 100%;
         width: 300px;
-        background-color: #d6d6d6;
+        background-color: #fff;
         z-index: 10000;
         position: fixed;
         top: 0;
         left: 0;
         box-sizing: border-box;
-        padding: 30px;
+          box-shadow: 0 0 6px 2px rgb(0 0 0 / 4%);
+          border-top: 1px none $color-primary;
+          margin-top: 69px;
+          object-fit: fill;
+
+
+            /* width: 100%;
+            margin-top: 69px;
+            border-top: 1px none #f43397;
+            background-color: #fff;
+            box-shadow: 0 0 6px 2px rgb(0 0 0 / 4%);
+            -o-object-fit: fill;
+            object-fit: fill; */
     }
     .backdrop {
         width: 100%;

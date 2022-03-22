@@ -97,5 +97,11 @@
       }
     },
     "title3": "联系我们"
+  },
+
+  "applinks":{
+    "sellerguide":"卖家指南",
+    "supplierguide":"供应商指南",
+    "shipping":"运输和退货政策"
   }
 }

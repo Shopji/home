@@ -1,12 +1,12 @@
 <template>
     <ul class="nav-list">
-        <li class="nav-item"><nuxt-link to="/about">About</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/services">Services</nuxt-link></li>
-        <li class="nav-item"><nuxt-link to="/contact">Contact</nuxt-link></li>
+        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link to="/howto/seller">{{$t('applinks.sellerguide')}}</nuxt-link></li>
+        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link to="/howto/supplier">{{$t('applinks.supplierguide')}}</nuxt-link></li>
+        <li class="nav-item nav-link-2 w-nav-link  w--nav-link-open"><nuxt-link to="/howto/shipping">{{$t('applinks.shipping')}}</nuxt-link></li>
     </ul>
 </template>
 
-<style scoped>
+<style lang='scss' scoped>
     .nav-list {
         list-style: none;
         padding: 0;
@@ -17,12 +17,21 @@
     }
     .nav-item a {
         text-decoration: none;
-        color: #fefefe;
+        color: #111;
     }
-    .nav-item a:hover,
+     .nav-item a:hover,
     .nav-item a:active{
-        color: #b4b4b4;
+      color:$color_primary
+
     }
+
+    .nav-item {
+        .nuxt-link-active{
+          color: $color_primary;
+        }
+
+    }
+
     @media (max-width: 767px) {
         .nav-list {
             display: block;

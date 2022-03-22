@@ -1,12 +1,12 @@
 <template>
     <header>
         <div class="brand-name">
-           <a class="topMenu home" href="/" style="float:left;"></a>
+           <a class="topMenu home" target="_blank"  href="https://shopji.co" style="float:left;"></a>
 
         </div>
 
         <div class="actions-section">
-                <a data-position="header" href="https://supplier.meesho.com/panel/v2/new/signup?ref=supplier_website" class="primary-button startselling w-button">{{$t('startselling')}}</a>
+                <a data-position="header" target="_blank"  href="https://shopji.co/#/pages/modules/mall/partner/applyPartner" class="primary-button startselling w-button">{{$t('startselling')}}</a>
                 <div class="drawer-toggle nav-button-animated w-nav-button" role="button" @click="$store.dispatch('nav/toggleSidebar')" data-w-id="cd8d589e-8a61-bc59-6d5c-1f13db2457d9"  style="-webkit-user-select: text;" aria-label="menu"  tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
                   <div data-w-id="cd8d589e-8a61-bc59-6d5c-1f13db2457da" class="top-line"></div>
                   <div data-w-id="cd8d589e-8a61-bc59-6d5c-1f13db2457db" class="middle-line"></div>

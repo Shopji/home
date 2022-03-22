@@ -1,12 +1,16 @@
 <template>
   <div class="container content">
-        <div id="title">How it works for Shopji Partners</div>
+        <div id="title">{{$t('footer.title2.title')}}</div>
         <ul>
 	<li>
-		<a class="shopji-link" href="/howto/seller" target="_blank">How to become Shopji Seller</a>
+		<a class="shopji-link" href="/howto/seller" target="_blank">{{$t('footer.title2.details.i1')}}</a>
 	</li>
 	<li>
-		<a class="shopji-link" href="/howto/supplier" target="_blank">How to become Shopji supplier</a>
+		<a class="shopji-link" href="/howto/supplier" target="_blank">{{$t('footer.title2.details.i2')}}</a>
+	</li>
+
+  <li>
+		<a class="shopji-link" href="/howto/shipping" target="_blank">{{$t('footer.title2.details.i3')}}</a>
 	</li>
 </ul>
     </div>
