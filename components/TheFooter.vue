@@ -12,7 +12,7 @@
           <nuxt-link :to="localePath('/howto/seller')" target="_blank" class="footer-link">{{$t('footer.title2.details.i1')}}</nuxt-link>
           <nuxt-link  :to="localePath('/howto/supplier')"  target="_blank" class="footer-link">{{$t('footer.title2.details.i2')}}</nuxt-link>
           <nuxt-link :to="localePath('/howto/shipping')" target="_blank" class="footer-link">{{$t('footer.title2.details.i3')}}</nuxt-link>
-          <a href="https://shopji.co/policies" target="_blank" class="footer-link">{{$t('footer.title2.details.i4')}}</a>
+          <a :href="'https://shopji.co/policies'+$i18n.locale" target="_blank" class="footer-link">{{$t('footer.title2.details.i4')}}</a>
         </div>
         <div>
           <h5 class="footer-title">{{$t('footer.title3')}}</h5>
