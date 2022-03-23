@@ -49,10 +49,10 @@ Shopji Mall中浏览分类并为您的客户**选择合适的产品**，点击�
 <img-cont style="width:70%" src="articals/fillcreatebuy.png" alt="" ></img-cont>
 <br/>
 
-## 4. Join Shopji Seller Chat Channel for Support and Notifications
+## 4. 加入 Shopji 卖家聊天频道以获得支持和通知
 
-Join one of the following official channels
--- [telegram channel](t.me)
--- [facebook messenger business channel](facebookmessenger.com)
--- [whatsup channle](whatsup.com)
-to query application progress and get help on listing your products on Shopji
+加入以下官方频道之一
+-- [电报频道](t.me)
+-- [facebook messenger 商业频道](facebookmessenger.com)
+-- [whatsup 频道](whatsup.com)
+查询申请进度并获得关于在 Shopji 上列出您的产品的帮助
